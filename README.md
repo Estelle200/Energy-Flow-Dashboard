@@ -1,1 +1,1 @@
-![Alt text] (Energy-Flow-Dashboard/EnergyFlowDashboard.png)
+![Diagram] (https://github.com/Estelle200/Energy-Flow-Dashboard/blob/main/EnergyFlowDashboard.png)
