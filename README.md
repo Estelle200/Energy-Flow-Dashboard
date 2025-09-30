@@ -1,1 +1,1 @@
-![Alt text] (EnergyFlowDashboard.png)
+![Alt text] (Energy-Flow-Dashboard/EnergyFlowDashboard.png)
